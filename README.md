@@ -137,7 +137,7 @@ Here is the list of functions you can use with this API:
 ```
 
 ## File / folder management
-**folder_content**: returns the content of your root folder
+**folder_content**: returns the content of your root folder  
 **subfolder_content**: returns the content of a folder when given folder ID
 ```
 {
