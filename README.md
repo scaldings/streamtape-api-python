@@ -2,8 +2,8 @@
 Streamtape is a service used for storing media with size up to 15GB. 
 
 ## Getting started
-To use the API, you will need a Streamtape account and the API credentials.
-You can get those at from https://streamtape.com/accpanel#accsettings
+To use the API, you will need a Streamtape account and the API credentials.\n
+You can get those at from https://streamtape.com/accpanel#accsettings\n
 Here is the list of functions you can use with this API:
 
 ## Account
