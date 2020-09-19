@@ -7,3 +7,15 @@ You can get those at from https://streamtape.com/accpanel#accsettings
 
 ## Documentation
 You can find the whole documentation here: https://streamtape.com/api  
+
+## Installation
+1. Clone this repository to a folder.
+```
+git clone https://github.com/scaldings/streamtape-api-python.git my_folder
+```
+2. Install it manually
+```
+cd my_folder
+python setup.py build
+python setup.py install
+```
