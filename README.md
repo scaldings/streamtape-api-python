@@ -13,7 +13,7 @@ You can find the whole documentation here: https://streamtape.com/api
 ```
 git clone https://github.com/scaldings/streamtape-api-python.git my_folder
 ```
-**2. Install it manually**
+**2. Navigate to the folder and install it manually**
 ```
 cd my_folder
 python setup.py build
