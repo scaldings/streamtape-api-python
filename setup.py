@@ -8,7 +8,7 @@ setuptools.setup(
     version="1.0",
     author="scaldings",
     author_email="lukedahlia@gmail.com",
-    description=A Streamtape API written in Python",
+    description="A Streamtape API written in Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/scaldings/streamtape-api-python",
