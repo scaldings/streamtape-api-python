@@ -66,13 +66,13 @@ def check_remote_upload_status(login, key, upload_id):
 
 
 # File / folder management
-def folder_contnent(login, key):
+def folder_content(login, key):
     url = f'https://api.streamtape.com/file/listfolder?login={login}&key={key}'
     data = requests.get(url).json()
     return data
 
 
-def subfolder_conent(login, key, folder_id):
+def subfolder_content(login, key, folder_id):
     url = f'https://api.streamtape.com/file/listfolder?login={login}&key={key}&loder={folder_id}'
     data = requests.get(url).json()
     return data
