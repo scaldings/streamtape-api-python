@@ -73,7 +73,7 @@ def folder_content(login, key):
 
 
 def subfolder_content(login, key, folder_id):
-    url = f'https://api.streamtape.com/file/listfolder?login={login}&key={key}&loder={folder_id}'
+    url = f'https://api.streamtape.com/file/listfolder?login={login}&key={key}&folder={folder_id}'
     data = requests.get(url).json()
     return data
 
